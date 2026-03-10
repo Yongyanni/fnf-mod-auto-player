@@ -1,2 +1,4 @@
 # fnf-mod-auto-player
-Unfinished and unmaintained FNF autoplay tool using Psych Engine JSON charts. Released for reference only.
+An experimental Psych Engine JSON autoplay tool for Friday Night Funkin'. 
+Unfinished, unmaintained, released for reference only.
+
