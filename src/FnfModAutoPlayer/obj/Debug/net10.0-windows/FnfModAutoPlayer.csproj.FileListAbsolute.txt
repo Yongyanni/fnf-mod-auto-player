@@ -1,0 +1,16 @@
+D:\大宝的应用\fnf\FnfModAutoPlayer\obj\Debug\net10.0-windows\FnfModAutoPlayer.Form1.resources
+D:\大宝的应用\fnf\FnfModAutoPlayer\obj\Debug\net10.0-windows\FnfModAutoPlayer.csproj.GenerateResource.cache
+D:\大宝的应用\fnf\FnfModAutoPlayer\obj\Debug\net10.0-windows\FnfModAutoPlayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\大宝的应用\fnf\FnfModAutoPlayer\obj\Debug\net10.0-windows\FnfModAutoPlayer.AssemblyInfoInputs.cache
+D:\大宝的应用\fnf\FnfModAutoPlayer\obj\Debug\net10.0-windows\FnfModAutoPlayer.AssemblyInfo.cs
+D:\大宝的应用\fnf\FnfModAutoPlayer\obj\Debug\net10.0-windows\FnfModAutoPlayer.csproj.CoreCompileInputs.cache
+D:\大宝的应用\fnf\FnfModAutoPlayer\bin\Debug\net10.0-windows\FnfModAutoPlayer.exe
+D:\大宝的应用\fnf\FnfModAutoPlayer\bin\Debug\net10.0-windows\FnfModAutoPlayer.deps.json
+D:\大宝的应用\fnf\FnfModAutoPlayer\bin\Debug\net10.0-windows\FnfModAutoPlayer.runtimeconfig.json
+D:\大宝的应用\fnf\FnfModAutoPlayer\bin\Debug\net10.0-windows\FnfModAutoPlayer.dll
+D:\大宝的应用\fnf\FnfModAutoPlayer\bin\Debug\net10.0-windows\FnfModAutoPlayer.pdb
+D:\大宝的应用\fnf\FnfModAutoPlayer\obj\Debug\net10.0-windows\FnfModAutoPlayer.dll
+D:\大宝的应用\fnf\FnfModAutoPlayer\obj\Debug\net10.0-windows\refint\FnfModAutoPlayer.dll
+D:\大宝的应用\fnf\FnfModAutoPlayer\obj\Debug\net10.0-windows\FnfModAutoPlayer.pdb
+D:\大宝的应用\fnf\FnfModAutoPlayer\obj\Debug\net10.0-windows\FnfModAutoPlayer.genruntimeconfig.cache
+D:\大宝的应用\fnf\FnfModAutoPlayer\obj\Debug\net10.0-windows\ref\FnfModAutoPlayer.dll
